@@ -8,4 +8,9 @@
 - Select type contributed
 - Find "Digistump AVR Boards" and Install
 - Select Digispark as board
-- profit :moneybag:
+- Profit :moneybag:
+
+## Info
+
+- All scripts are meant to be used on windows 10
+
