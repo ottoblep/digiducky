@@ -1,4 +1,4 @@
-# Digispark RubberDucky by Ottoblep
+# Digispark RubberDucky by Ottoblep :electric_plug:
 
 ## Setup
 - Download Arduino Software: https://www.arduino.cc/en/Main/Software
@@ -8,3 +8,4 @@
 - Select type contributed
 - Find "Digistump AVR Boards" and Install
 - Select Digispark as board
+- profit :moneybag:
