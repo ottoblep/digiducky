@@ -1,4 +1,4 @@
-# Digispark RubberDucky by Ottoblep :electric_plug:
+# Digispark RubberDucky :electric_plug:
 
 ## Setup
 - Download Arduino Software: https://www.arduino.cc/en/Main/Software
