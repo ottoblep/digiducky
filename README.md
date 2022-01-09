@@ -8,7 +8,7 @@
 - Select type contributed
 - Find "Digistump AVR Boards" and Install
 - Select Digispark as board
-- Upload :moneybag:
+- Upload
 
 ## Info
 
